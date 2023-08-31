@@ -1,0 +1,18 @@
+[
+    {
+        "href":"#services",
+        "text":"Usluge"
+    },
+    {
+        "href":"#offers",
+        "text":"Proizvodi"
+    },
+    {
+        "href":"#contact",
+        "text":"Kontakt"
+    },
+    {
+        "href":"shop.html",
+        "text":"Prodavnica"
+    }
+]
